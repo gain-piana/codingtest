@@ -1,7 +1,5 @@
 from collections import deque
 
-import queue
-
 n, m = map(int,input().split())
 
 graph = []
